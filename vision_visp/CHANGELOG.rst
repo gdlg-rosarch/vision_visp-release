@@ -2,12 +2,6 @@
 Changelog for package vision_visp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.10.0 (2017-02-10)
--------------------
-* kinetic-0.9.3
-* Prepare changelogs
-* Contributors: Fabien Spindler
-
 0.7.0 (2014-03-12)
 ------------------
 * Add missing CMakeLists.txt to vision_visp metapackage
@@ -39,9 +33,6 @@ Changelog for package vision_visp
 * Fix doc url location
 * 0.7.3
 * Prepare changelogs
-* indigo-0.7.2
-* Prepare changelogs
-* Contributors: Fabien Spindler
 
 0.9.1 (2015-12-21)
 ------------------
@@ -56,3 +47,8 @@ Changelog for package vision_visp
 * Prepare changelogs
 * Contributors: Fabien Spindler
 
+0.10.0 (2017-06-23)
+-------------------
+* kinetic-0.9.3
+* Prepare changelogs
+* Contributors: Fabien Spindler

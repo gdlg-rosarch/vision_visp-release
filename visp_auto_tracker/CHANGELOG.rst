@@ -2,13 +2,6 @@
 Changelog for package visp_auto_tracker
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.10.0 (2017-02-10)
--------------------
-* Fix catkin_lint warnings level 2
-* kinetic-0.9.3
-* Prepare changelogs
-* Contributors: Fabien Spindler
-
 0.7.0 (2014-03-12)
 ------------------
 * Add flashcode_mbt as subdirectory.
@@ -93,5 +86,13 @@ Changelog for package visp_auto_tracker
 * Fix CMAKE_CXX_FLAGS as separated list
 * kinetic-0.9.2
 * Contributors: Fabien Spindler
+
+0.10.0 (2017-06-23)
+-------------------
+* Fix catkin_lint warnings level 2
+* kinetic-0.9.3
+* Prepare changelogs
+* Contributors: Fabien Spindler
+
 
 
